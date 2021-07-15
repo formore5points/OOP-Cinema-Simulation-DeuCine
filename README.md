@@ -1,7 +1,7 @@
 # OOP-Cinema-Simulation-DeuCine
 OOP Based Cinema Simulation using Java
 
-# Project:  CineCeng
+# Project:  DeuCine
  
 The subject of the project is to develop a software for the CineCeng Theaters. 
  
